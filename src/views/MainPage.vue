@@ -78,6 +78,7 @@
                 <p class="my-4">{{ weather.description }}</p>
               </div>
             </div>
+
           </div>
 
           <div class="card-bottom px-5 py-4 row">

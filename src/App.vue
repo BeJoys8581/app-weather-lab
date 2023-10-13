@@ -14,9 +14,6 @@ import MainPage from './views/MainPage.vue';
 <MainPage/>
 
 
-
-
-
 </template>
 
 <style scoped>
