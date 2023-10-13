@@ -1,7 +1,7 @@
 <script setup>
 
 import HeaderDD from './views/HeaderDD.vue';
-import FooterDD from '@/views/FooterDD.vue'
+
 import MainPage from './views/MainPage.vue';
 
 </script>
@@ -14,7 +14,7 @@ import MainPage from './views/MainPage.vue';
 <MainPage/>
 
 
-<FooterDD/>
+
 
 
 </template>
